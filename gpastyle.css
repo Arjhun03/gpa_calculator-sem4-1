@@ -1,0 +1,18 @@
+body{
+    margin :0;
+    
+}
+.banner{
+background-image: url(psna.jpeg);
+background-size: cover;
+position: relative;
+background-repeat: no-repeat;
+}
+.cont{
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    bottom: 50%;
+    right: 50%;
+    
+}
