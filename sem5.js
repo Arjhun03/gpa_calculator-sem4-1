@@ -37,3 +37,4 @@ function calculateGPA() {
   
   document.querySelector("button").addEventListener("click", calculateGPA);
   
+  

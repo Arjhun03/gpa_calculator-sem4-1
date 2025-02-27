@@ -1,3 +1,4 @@
+
 function calculateGPA() {
     const gradePoints = {
         "O": 10,
